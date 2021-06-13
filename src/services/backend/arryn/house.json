@@ -1,0 +1,48 @@
+[
+  {
+    "house": "Casa Arryn",
+    "motto": "Tão Alto Como a Honra",
+    "thirst": "Ninho da Águia",
+    "region": "Vale de Arryn",
+    "religion": "Fé dos Sete",
+    "phrase":"Os Arryns são descendentes diretos dos invasores ândalos, que atravessaram o Mar Estreito e desembarcaram nos Dedos",
+    "founder": "Artys Arryn",
+    "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/3b/Casa_Arryn.png/revision/latest/scale-to-width-down/350?cb=20151104181628&path-prefix=pt-br",
+    "lords": [
+      {
+        "id": 1,
+        "name": "Robin Arryn",
+        "ocupacion": "De Jure"
+      },
+      {
+        "id": 2,
+        "name": "Petyr Baelish",
+        "ocupacion": "Regente"
+      }
+    ],
+    "loyalty": [
+      {
+        "id": 1,
+        "name": "Casa Stark"
+      },
+      {
+        "id": 2,
+        "name": "Casa Baratheon de Porto"
+      },
+      {
+        "id": 3,
+        "name": "Casa Targaryen"
+      },
+      {
+        "id": 4,
+        "name": "Real"
+      }
+    ],
+    "titles": [
+      { "id": 1, "text": "Senhor do Ninho da Águia" },
+      { "id": 2, "text": "Senhor Supremo do Vale" },
+      { "id": 3, "text": "Protetor do Leste" },
+      { "id": 4, "text": "Rei da Montanha e do Vale" }
+    ]
+  }
+]
