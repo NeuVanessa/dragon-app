@@ -1,9 +1,9 @@
 {
-  "name": "app-sports",
-  "displayName": "app-sports",
+  "name": "dragon-pro",
+  "displayName": "dragon-pro",
   "expo": {
-    "name": "app-sports",
-    "slug": "app-sports",
+    "name": "dragon-pro",
+    "slug": "dragon-pro",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
